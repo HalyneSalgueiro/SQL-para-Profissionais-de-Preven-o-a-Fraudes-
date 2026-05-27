@@ -13,5 +13,5 @@ fraud.user_creditcards uc
 where
 user_id = 7536
 
-/*Resultado: 04/25*/
+/*Resultado: 04/2025*/
 <img width="1835" height="875" alt="image" src="https://github.com/user-attachments/assets/b164539a-6e37-4209-9535-4c022017986f" />
